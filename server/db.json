@@ -1,0 +1,54 @@
+{
+  "main": [
+    {
+      "name": "Square bar",
+      "productBanner": "https://www.metalsupplies.com/wp-content/uploads/2016/11/mild-steel-hollow-section.jpg",
+      "photo": "https://www.metalsupplies.com/wp-content/uploads/2016/11/metalsupplies_030.jpg",
+      "fabric": "iron",
+      "barnd": "foolad mobarake",
+      "fullDes": "Square bar is a square shaped metal which is mostly used in buildings.",
+      "process": "Square bars have a uniq process of being made.Starting from melting iron bars to making them have a hole inside or not which they are used in two separate fields.",
+      "id": 1
+    },
+    {
+      "name": "Angle bar",
+      "productBanner": "https://reganindustrial.com/wp-content/uploads/2021/07/Everything-You-Need-to-Know-About-Angle-Bars-in-The-Philippines-1200x900.jpg",
+      "photo": "https://pambansangbakal.com.ph/wp-content/uploads/2014/11/angle-bars.jpg",
+      "fabric": "still",
+      "barnd": "foolad mobarake",
+      "fullDes": "Angle bar is a V shaped bar",
+      "process": "Angle bars are made with melted iron bars and with the process of adding addons into it, it can be both soft or really hard.Angle bars are mainly used in 4 sides of elevators.",
+      "id": 2
+    },
+    {
+      "name": "Steel bar",
+      "productBanner": "https://pinoybuilders.ph/wp-content/uploads/2020/07/thumbnail-7b921d9acaf111eabd070a37fe38fccb.jpeg",
+      "photo": "https://aradbranding.com/en/uploads/topics/16776586232123.jpg",
+      "fabric": "still",
+      "barnd": "foolad mobarake",
+      "fullDes": "Angle bar is a V shaped bar",
+      "process": "Angle bars are made with melted iron bars and with the process of adding addons into it, it can be both soft or really hard.Angle bars are mainly used in 4 sides of elevators.",
+      "id": 3
+    },
+    {
+      "name": "Steel sheets",
+      "productBanner": "https://www.arku.com/hubfs/Imported_Blog_Media/csm_hg_blech_shutterstock_391558444_feb793536a-4.jpg",
+      "photo": "https://www.metalsupplies.com/wp-content/uploads/2016/10/steel-e1476882904928.jpg",
+      "fabric": "still",
+      "barnd": "foolad tehran",
+      "fullDes": "Steel sheets are a key part of industries and factories are the key customer for these sheets",
+      "process": "Steel sheets are made with melted iron bars and one of the parts of the production process is rolling the melted iron through roller and then puttingit in a cold water in order to shape. ",
+      "id": 4
+    },
+    {
+      "name": "H beam",
+      "productBanner": "https://www.nssco.com/assets/images/content/Beam_Gallery_1.jpg",
+      "photo": "https://cdn11.bigcommerce.com/s-nbtmigigo5/images/stencil/1280x1280/products/186/644/IMG_0033__96970.1583992648.jpg?c=2",
+      "fabric": "still",
+      "barnd": "foolad kerman",
+      "fullDes": "H beam is an H shaped iron bars which is used in big projects like sky scrapers and malls",
+      "process": "H beam aside from having a different production process, it has a diffrent selling process as well.For example, all the other iron bars are bought and sold based on price per kilogram whilst H beam is bought with price per kilogram and sold with price per a bar.",
+      "id": 5
+    }
+  ]
+}

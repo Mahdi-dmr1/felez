@@ -1,0 +1,7 @@
+#middle-img{
+    filter: grayscale(80%);
+}
+
+#rtl{
+    direction: rtl !important;
+}
