@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/felez/static/css/main.038675d8.css",
-    "main.js": "/felez/static/js/main.7fb78789.js",
+    "main.js": "/felez/static/js/main.fe286ce0.js",
     "index.html": "/felez/index.html",
     "main.038675d8.css.map": "/felez/static/css/main.038675d8.css.map",
-    "main.7fb78789.js.map": "/felez/static/js/main.7fb78789.js.map"
+    "main.fe286ce0.js.map": "/felez/static/js/main.fe286ce0.js.map"
   },
   "entrypoints": [
     "static/css/main.038675d8.css",
-    "static/js/main.7fb78789.js"
+    "static/js/main.fe286ce0.js"
   ]
 }
